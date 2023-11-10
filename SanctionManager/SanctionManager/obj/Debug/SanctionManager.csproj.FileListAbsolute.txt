@@ -1,0 +1,10 @@
+E:\PSC#\SanctionManager\SanctionManager\bin\Debug\SanctionManager.exe.config
+E:\PSC#\SanctionManager\SanctionManager\bin\Debug\SanctionManager.exe
+E:\PSC#\SanctionManager\SanctionManager\bin\Debug\SanctionManager.pdb
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.csproj.AssemblyReference.cache
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.Form1.resources
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.Properties.Resources.resources
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.csproj.GenerateResource.cache
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.csproj.CoreCompileInputs.cache
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.exe
+E:\PSC#\SanctionManager\SanctionManager\obj\Debug\SanctionManager.pdb
